@@ -4,6 +4,11 @@
 
 Public **demo / preview** build for [Hikaru — Dorodango](https://github.com/subtiliorars-sys/Dorodango) — polish mud balls together: craft solo, pass the device to gift someone you care about.
 
+
+### First-run tip
+
+Open [Play](https://subtiliorars-sys.github.io/Dorodango---Preview/) for the sanitized public build. Polish mud into shine — Esc pauses; M toggles sound. Full HQ lives in the private Dorodango repo.
+
 ## What this repo is
 
 
