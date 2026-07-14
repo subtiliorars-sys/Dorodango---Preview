@@ -6,7 +6,6 @@ Public **demo / preview** build for [Hikaru — Dorodango](https://github.com/su
 
 ## What this repo is
 
-**Play:** https://subtiliorars-sys.github.io/Dorodango---Preview/
 
 This repository holds a **sanitized, static web snapshot** (GitHub Pages) of a **dev slice** — not the full private product codebase. Open `index.html` or the published Pages URL to try the current playable slice.
 
@@ -14,7 +13,6 @@ This repository holds a **sanitized, static web snapshot** (GitHub Pages) of a *
 
 ## Main product (private)
 
-**Play:** https://subtiliorars-sys.github.io/Dorodango---Preview/
 
 Full development lives in the private HQ repo:
 
@@ -22,7 +20,6 @@ Full development lives in the private HQ repo:
 
 ## Fleet connectome
 
-**Play:** https://subtiliorars-sys.github.io/Dorodango---Preview/
 
 Preview repos are catalogued in the JimmyTheHat fleet hub connectome:
 
@@ -30,6 +27,5 @@ Preview repos are catalogued in the JimmyTheHat fleet hub connectome:
 
 ## License
 
-**Play:** https://subtiliorars-sys.github.io/Dorodango---Preview/
 
 See [LICENSE](LICENSE).
